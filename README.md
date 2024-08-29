@@ -11,9 +11,6 @@ This repository contains a simple project from Object-Oriented Programming (OOP)
 - [Contributing](#contributing)
 - [License](#license)
 
-
----
-
 ## Introduction
 The StudentGradebook project is designed to help users manage and track student scores across multiple subjects. It offers a simple GUI for inputting student names and scores, calculating averages, and storing the data persistently. This project is an excellent example of applying OOP principles in a real-world scenario, making it a useful learning tool for students and educators alike.
 
